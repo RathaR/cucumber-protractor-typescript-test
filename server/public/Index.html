@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+</head>
+<area>
+<span>Enter you question: </span>
+<input class="question">
+<button class="button">Get answer</button>
+<div class="answer">
+
+</div>
+<script>
+    (function () {
+        var button = document.querySelector('.button');
+        var resultView = document.querySelector('.answer');
+        var buttonClickHandler = function(e) {
+            resultView.innerText = 'Answer';
+        };
+        button.addEventListener('click', buttonClickHandler);
+    })();
+</script>
+</body>
+</html>

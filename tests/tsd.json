@@ -1,0 +1,27 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "angular-protractor/angular-protractor.d.ts": {
+      "commit": "e5a27ea95e47b95333784f1f0d590127b4e39a89"
+    },
+    "selenium-webdriver/selenium-webdriver.d.ts": {
+      "commit": "e5a27ea95e47b95333784f1f0d590127b4e39a89"
+    },
+    "assertion-error/assertion-error.d.ts": {
+      "commit": "e5a27ea95e47b95333784f1f0d590127b4e39a89"
+    },
+    "chai/chai.d.ts": {
+      "commit": "e5a27ea95e47b95333784f1f0d590127b4e39a89"
+    },
+    "promises-a-plus/promises-a-plus.d.ts": {
+      "commit": "e5a27ea95e47b95333784f1f0d590127b4e39a89"
+    },
+    "chai-as-promised/chai-as-promised.d.ts": {
+      "commit": "e5a27ea95e47b95333784f1f0d590127b4e39a89"
+    }
+  }
+}

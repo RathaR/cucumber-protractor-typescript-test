@@ -1,3 +1,13 @@
+build
+typings
+step_definitions/*.js
+**/*.js.map
+tests/features/step_definitions/*.js
+tests/features/support/*.js
+support/**.js
+# WebStrom
+.idea
+
 # Logs
 logs
 *.log
