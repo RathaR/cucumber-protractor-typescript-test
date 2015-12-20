@@ -1,0 +1,6 @@
+execute tests:
+script:
+    - npm install
+    - cd tests
+    - tsd install
+    - npm test

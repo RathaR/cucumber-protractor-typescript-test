@@ -1,4 +1,4 @@
-import ICucumber = Cube.ICucumber;
+import ICucumber = require('./../support/support');
 var exportedModule = function () {
 
     var cucumber:ICucumber = this;
